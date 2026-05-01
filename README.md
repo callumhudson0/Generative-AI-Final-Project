@@ -19,8 +19,8 @@ This project analyses street-level crime data from the Metropolitan Police Servi
 
 The easiest way to see all visualisations is to open the self-contained report:
 
-> **📄 [`crime_diffusion_report.html`](crime_diffusion_report.html)**  
-> Download this file and open it in any web browser. No internet connection or software installation required.
+> **📄 [View the Interactive Report](https://callumhudson0.github.io/Generative-AI-Final-Project/crime_diffusion_report.html)**  
+> Opens directly in any web browser — no download required.
 
 The report includes:
 - An interactive spatial network map of all 149 Bexley LSOAs
